@@ -14,3 +14,12 @@ elif c < d:
     print("d is bigger than c")
 else:
     print("c is bigger than d")
+
+X = True
+Y = True
+if X != Y:
+    Z = False
+elif X == True:
+    Z = True
+else:
+    Z = False
