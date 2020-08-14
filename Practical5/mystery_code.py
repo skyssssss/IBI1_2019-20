@@ -1,5 +1,5 @@
 # What does this piece of code do?
-# Answer: 
+# Answer: This piece of code is to ouput a prime number n.
 
 # Import libraries
 # randint allows drawing a random number, 
