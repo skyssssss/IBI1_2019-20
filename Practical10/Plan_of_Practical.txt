@@ -1,0 +1,14 @@
+#Read each file of 3 sequence
+#Read BLOSUM62 matrix
+#Make a dictionary for matrix
+lib={'A':0,'R':1,...}
+#choose two sequence seq1 and seq2 of three sequence
+for each aa[i]
+    if seq1[i]!=seq2[i]
+            distance=distancce+1
+#caculate similarity of two sequence
+
+#Caculate the score
+for i in range(len(seq1))
+            score = score + BLOSUM62 matrix[lib[seq1[i]],lib[seq2[i]]]
+#print out all the result
